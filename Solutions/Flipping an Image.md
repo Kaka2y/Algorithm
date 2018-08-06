@@ -1,6 +1,6 @@
-## Flipping an Image
+# Flipping an Image
 题目传送门[Flipping an Image](https://leetcode.com/problems/flipping-an-image/description/)
-#### the first solution
+## the first solution
 ```Java
 /**
 * @author:kaka2y
@@ -28,7 +28,7 @@ class Solution {
 }
 ```
 第一次的做法虽然可以运行，不过有三次循环，时间复杂度为O(n^3)，所以改进了以下，使用了下面的`if`语句代替
-#### improve 1
+## improve 1
 第二次的做法是在数组的第二次遍历里，采用判断语句，对当前数组做反转，可以减少一个O(n)
 ```Java
 /**
@@ -57,7 +57,7 @@ class Solution {
     }
 }
 ```
-#### improve 2
+## improve 2
 这一次是将第二层的遍历整合起来，仅对一半的数组进行遍历，减少了O(n/2)
 ```Java
 /**
