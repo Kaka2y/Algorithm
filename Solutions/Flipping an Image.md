@@ -4,6 +4,7 @@
 ```Java
 /**
 * @author, Kaka2y
+* @date, 2018-07-31
 * @param, The array to be manipulated.
 * @return, The array has fliped and reversed.
 */

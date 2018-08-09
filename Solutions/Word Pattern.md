@@ -3,6 +3,7 @@
 ```Java
 /**
 * @author, Kaka2y
+* @date, 2018-08-09
 * @param pattern, The string to be matched
 * @param str, The word to be matched
 * @return, If consistent, return true
