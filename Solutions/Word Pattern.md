@@ -2,6 +2,12 @@
 [问题链接](https://leetcode.com/problems/word-pattern/description/)
 
 ```Java
+/**
+* @author Kaka2y
+* @param pattern, The string to be matched
+* @param str, The word to be matched
+* @return, If consistent, return true
+*/
 import java.util.HashMap;
 
 class Solution {
