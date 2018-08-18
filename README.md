@@ -7,3 +7,4 @@
 - [Uncommon Words from Two Sentences](https://github.com/Kaka2y/Algorithm/blob/master/Solutions/Uncommon%20Words%20from%20Two%20Sentences.md)
 - [Ugly Number](https://github.com/Kaka2y/Algorithm/blob/master/Solutions/Ugly%20Number.md)
 - [Two Sum II - Input array is sorted](https://github.com/Kaka2y/Algorithm/blob/master/Solutions/Two%20Sum%20II%20-%20Input%20array%20is%20sorted.md)
+- [Shortest Distance to a Character](https://github.com/Kaka2y/Algorithm/blob/master/Solutions/Shortest%20Distance%20to%20a%20Character.md)
