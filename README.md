@@ -11,3 +11,4 @@
 - [Self Dividing Numbers](https://github.com/Kaka2y/Algorithm/blob/master/Solutions/Self%20Dividing%20Numbers.md)
 - [Single Number](https://github.com/Kaka2y/Algorithm/blob/master/Solutions/Single%20Number.md)
 - [Set Mismatch](https://github.com/Kaka2y/Algorithm/blob/master/Solutions/Set%20Mismatch.md)
+- [Min Stack](https://github.com/Kaka2y/Algorithm/blob/master/Solutions/Min%20Stack.md)
