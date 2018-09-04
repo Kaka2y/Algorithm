@@ -12,3 +12,4 @@
 - [Single Number](https://github.com/Kaka2y/Algorithm/blob/master/Solutions/Single%20Number.md)
 - [Set Mismatch](https://github.com/Kaka2y/Algorithm/blob/master/Solutions/Set%20Mismatch.md)
 - [Min Stack](https://github.com/Kaka2y/Algorithm/blob/master/Solutions/Min%20Stack.md)
+- [Merge Two Sorted Lists.md](https://github.com/Kaka2y/Algorithm/blob/master/Solutions/Merge%20Two%20Sorted%20Lists.md)
