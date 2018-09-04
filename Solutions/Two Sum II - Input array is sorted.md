@@ -3,7 +3,7 @@
 ```Java
 /**
  * @author kaka2y
- * @date 2018-08-17
+ * @date 2018/08/17
  */
 class Solution {
     public int[] twoSum(int[] numbers, int target) {

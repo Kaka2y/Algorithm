@@ -3,7 +3,7 @@
 ```Java
 /**
 * @author kaka2y
-* @date 2018-08-18
+* @date 2018/08/18
 */
 import java.util.LinkedList;
 import java.util.List;

@@ -3,10 +3,8 @@
 ## the first solution
 ```Java
 /**
-* @author, Kaka2y
-* @date, 2018-07-31
-* @param, The array to be manipulated.
-* @return, The array has fliped and reversed.
+* @author kaka2y
+* @date 2018/07/31
 */
 class Solution {
     public int[][] flipAndInvertImage(int[][] A) {
@@ -33,9 +31,8 @@ class Solution {
 第二次的做法是在数组的第二次遍历里，采用判断语句，对当前数组做反转，可以减少一个O(n)
 ```Java
 /**
-* @author, Kaka2y
-* @param, The array to be manipulated.
-* @return, The array has fliped and reversed.
+* @author kaka2y
+* @date 2018/07/31
 */
 class Solution {
     public int[][] flipAndInvertImage(int[][] A) {
@@ -62,9 +59,8 @@ class Solution {
 这一次是将第二层的遍历整合起来，仅对一半的数组进行遍历，减少了O(n/2)
 ```Java
 /**
-* @author, Kaka2y
-* @param, The array to be manipulated.
-* @return, The array has fliped and reversed.
+* @author kaka2y
+* @date 2018/07/31
 */
 class Solution {
     public int[][] flipAndInvertImage(int[][] A) {

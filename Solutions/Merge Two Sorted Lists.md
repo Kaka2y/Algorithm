@@ -3,7 +3,7 @@
 ```Java
 /**
  * @author kaka2y
- * @since 2018-09-04
+ * @date 2018/09/04
  * @category List
  */
 class Solution {

@@ -2,7 +2,10 @@
 问题传送门[Single Number](https://leetcode.com/problems/single-number/description/)
 ```Java
 import java.util.LinkedList;
-
+/**
+* @author kaka2y
+* @date 2018/08/23
+*/
 class Solution {
     public int singleNumber(int[] nums) throws IndexOutOfBoundsException{
     	LinkedList<Integer> targetNum = new LinkedList<>();

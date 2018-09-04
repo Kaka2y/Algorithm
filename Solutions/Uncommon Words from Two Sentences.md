@@ -2,9 +2,9 @@
 问题传送门[Uncommon Words from Two Sentences](https://leetcode.com/problems/uncommon-words-from-two-sentences/description/)
 ```Java
 /**
-* @author, kaka2y
-* @date, 2018-08-13
-* @type, Array
+* @author kaka2y
+* @date 2018/08/13
+* @category Array
 */
 import java.util.LinkedList;
 

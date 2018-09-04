@@ -2,8 +2,8 @@
 问题传送门[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/)
 ```Java
 /**
-* @author, kaka2y
-* @date, 2018-08-11
+* @author kaka2y
+* @date 2018/08/11
 */
 import java.util.Stack;
 import java.util.HashMap;

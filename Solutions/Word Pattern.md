@@ -2,11 +2,8 @@
 题目传送门[Word Pattern](https://leetcode.com/problems/word-pattern/description/)
 ```Java
 /**
-* @author, Kaka2y
-* @date, 2018-08-09
-* @param pattern, The string to be matched
-* @param str, The word to be matched
-* @return, If consistent, return true
+* @author kaka2y
+* @date 2018/08/09
 */
 import java.util.HashMap;
 

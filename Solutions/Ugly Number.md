@@ -3,7 +3,7 @@
 ```Java
 /**
  * @author kaka2y
- * @date 2018-08-14
+ * @date 2018/08/14
  */
 class Solution {
     public boolean isUgly(int num) {

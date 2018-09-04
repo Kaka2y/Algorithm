@@ -5,8 +5,8 @@
 这个问题和之前做过的[这题](https://leetcode.com/problems/reverse-integer/description/)有点类似，不过当时并没有记录下做法，但是在思路上可以借鉴反向输出的做法，也就是用`取余法`来对给出的整数由低位到高位的遍历输出，因为所需要输出的位数不多，所以可以直接使用`ArrayList`来进行操作。
 ```java
 /**
-* @author, kaka2y
-* @date, 2018-07-23
+* @author kaka2y
+* @date 2018/07/23
 */
 class Solution {
     public boolean isPalindrome(int x) {
@@ -37,8 +37,8 @@ class Solution {
 
 ```java
 /**
-* @author, kaka2y
-* @date, 2018-07-23
+* @author kaka2y
+* @date 2018/07/23
 */
 import java.util.concurrent.CopyOnWriteArrayList;
 

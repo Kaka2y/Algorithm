@@ -2,10 +2,8 @@
 问题传送门[Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/description/)
 ```Java
 /**
-* @author, kaka2y
-* @date, 2018-08-10
-* @param num
-* @return true if the num is a perfect square
+* @author kaka2y
+* @date 2018/08/10
 */
 package valid_perfect_square;
 

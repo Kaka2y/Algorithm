@@ -3,7 +3,7 @@
 ```Java
 /**
  * @author kaka2y
- * @since 2018-09-02
+ * @date 2018/09/02
  */
 class Solution {
     public int[] findErrorNums(int[] nums) {

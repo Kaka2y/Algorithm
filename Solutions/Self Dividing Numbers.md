@@ -4,12 +4,10 @@
 import java.util.List;
 import java.util.LinkedList;
 
-
 /**
  * @author kaka2y
- * @since 2018-08-21
- * @category list
- *
+ * @date 2018/08/21
+ * @category List
  */
 class Solution {
     public List<Integer> selfDividingNumbers(int left, int right) {
