@@ -14,3 +14,4 @@
 - [Min Stack](https://github.com/Kaka2y/Algorithm/blob/master/Solutions/Min%20Stack.md)
 - [Merge Two Sorted Lists.md](https://github.com/Kaka2y/Algorithm/blob/master/Solutions/Merge%20Two%20Sorted%20Lists.md)
 - [Roman to Integer](https://github.com/Kaka2y/Algorithm/blob/master/Solutions/Roman%20to%20Integer.md)
+- [Longest Common Prefix](https://github.com/Kaka2y/Algorithm/blob/master/Solutions/Longest%20Common%20Prefix.md)
